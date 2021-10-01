@@ -12,6 +12,7 @@ namespace GitCSharp {
             Console.WriteLine("######################################");
 
             Console.WriteLine("Enviando para repositório online");
+            Console.WriteLine("Feito o download e devolvido para o repositório online");
 
             Console.ReadLine();
         }
