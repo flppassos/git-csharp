@@ -11,6 +11,8 @@ namespace GitCSharp {
             Console.WriteLine("Enviando projeto para o github.");
             Console.WriteLine("######################################");
 
+            Console.WriteLine("Enviando para repositório online");
+
             Console.ReadLine();
         }
     }
